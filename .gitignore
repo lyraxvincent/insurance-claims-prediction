@@ -2,3 +2,4 @@
 data/
 *.csv
 plots/
+catboost_info/
